@@ -1,0 +1,20 @@
+First Name,Last Name,Age,Gender,Hypertension,Heart Disease,BMI,Avg Glucose Level,Prediction,Stroke Probability
+test,1,80,Male,Yes,Yes,21.24,223.36,No Stroke,35.75
+test,1,80,Male,Yes,Yes,21.24,200.93,No Stroke,23.27
+test,1,80,Male,Yes,Yes,21.24,270.54,Stroke,84.37
+test,1,80,Male,Yes,Yes,21.24,222.2,Stroke,73.09
+test ,3,30,Male,No,No,25.0,100.0,No Stroke,41.27
+Mohammed ,Ahetasamul,17,Male,No,No,25.0,100.0,Stroke,66.9
+Mohammed ,Ahetasamul,17,Male,No,No,35.63,144.04,Stroke,54.26
+Mohammed ,Ahetasamul,17,Male,No,No,35.63,194.33,No Stroke,22.84
+Mohammed ,Ahetasamul,17,Male,No,No,35.63,200.56,No Stroke,16.49
+Mohammed ,Ahetasamul,17,Male,No,No,30.1,200.56,Stroke,95.06
+Mohammed ,Ahetasamul,17,Male,No,No,40.97,200.56,No Stroke,34.64
+Mohammed ,Ahetasamul,17,Male,No,No,36.09,200.56,No Stroke,8.64
+Mohammed ,Ahetasamul,17,Male,No,No,34.98,200.56,No Stroke,26.95
+Mohammed ,Ahetasamul,17,Male,No,No,36.18,200.56,No Stroke,15.58
+test,101,30,Male,No,No,25.0,100.0,No Stroke,1.28
+Nayeem,Hasan,71,Male,Yes,Yes,28.11,192.95,Stroke,91.7
+,,30,Male,No,No,25.0,100.0,No Stroke,4.89
+,,30,Male,No,No,25.0,300.0,No Stroke,49.57
+,,30,Male,No,No,26.55,300.0,Stroke,88.97
